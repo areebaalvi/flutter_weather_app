@@ -1,8 +1,7 @@
 
 # Fluttter_Weather_App_with_API
 
-**Weather App – Your Daily Sky Companion**
-]
+**Weather App –   Your Daily Sky Companion**
 Stay ahead of the weather with Weather App, your beautifully designed and reliable weather companion. Whether you’re planning your day, scheduling travel, or just curious about the sky — Weather App gives you accurate, real-time updates in a simple, elegant interface.
 
 **Key Features**
