@@ -17,7 +17,7 @@ Global City Search: Quickly search weather data for any location worldwide.
 
 Smooth User Experience: Fast, responsive, and visually appealing design optimized for all devices.
 
-<a href="https://github.com/areebaalvi/flutter_weather_app/releases/download/2025.1.3/Weather.App.apk">![App Screenshot](https://i.postimg.cc/RCQf1RN0/Property-1-finishedd.png)</a>
+<a href="https://github.com/areebaalvi/flutter_weather_app/releases/download/2025.1.3/WAPP.apk">![App Screenshot](https://i.postimg.cc/RCQf1RN0/Property-1-finishedd.png)</a>
 
 
 
