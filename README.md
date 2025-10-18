@@ -33,6 +33,8 @@ From clear skies to rainy days, Weather App helps you prepare for anything. Its 
 
 ![App Screenshot](https://i.postimg.cc/Wzq89qKY/3.jpg)
 
+![App Screenshot](https://i.postimg.cc/jdP02D5n/4.jpg)
+
 ## Tech Stack
 
 **Client:** Flutter(Dart)
@@ -51,4 +53,4 @@ From clear skies to rainy days, Weather App helps you prepare for anything. Its 
 
 
 
-![App Screenshot](https://i.postimg.cc/jdP02D5n/4.jpg)
+
