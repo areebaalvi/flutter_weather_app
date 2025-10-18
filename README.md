@@ -17,7 +17,7 @@ Global City Search: Quickly search weather data for any location worldwide.
 
 Smooth User Experience: Fast, responsive, and visually appealing design optimized for all devices.
 
-<a href="">![App Screenshot](https://i.postimg.cc/RCQf1RN0/Property-1-finishedd.png)</a>
+<a href="sha256:f42c689e9bcbf4c3426aecdf6f8ce41c66f83c2c9552ee06d926600df84cef0a">![App Screenshot](https://i.postimg.cc/RCQf1RN0/Property-1-finishedd.png)</a>
 
 
 
