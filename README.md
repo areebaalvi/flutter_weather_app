@@ -1,10 +1,11 @@
 
 # Fluttter_Weather_App_with_API
 
-**Weather App –   Your Daily Sky Companion**
+Weather App –   Your Daily Sky Companion
+
 Stay ahead of the weather with Weather App, your beautifully designed and reliable weather companion. Whether you’re planning your day, scheduling travel, or just curious about the sky — Weather App gives you accurate, real-time updates in a simple, elegant interface.
 
-**Key Features**
+## Key Features
 
 Live Weather Updates: Get instant temperature, humidity, and wind speed data for any city.
 
@@ -20,7 +21,7 @@ Smooth User Experience: Fast, responsive, and visually appealing design optimize
 
 
 
-**Why You’ll Love It**
+## Why You’ll Love It
 
 From clear skies to rainy days, Weather App helps you prepare for anything. Its realistic graphics and easy navigation make checking the weather a delightful part of your routine.
 
@@ -44,10 +45,9 @@ From clear skies to rainy days, Weather App helps you prepare for anything. Its 
 **Server:** OpenWeatherMapAPI/WeatherAPI
 
 
-## Authors
+## Author
 
 - [@Areeba Alvi](https://github.com/areebaalvi)
-
 
 
 
